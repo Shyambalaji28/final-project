@@ -1,10 +1,8 @@
 ### dependency
 streamlit
-Matplotlib
-Tensorflow
+matplotlib
+tensorflow
 numpy
 shap
-pickle
-os
 pandas
 scikit-learn
