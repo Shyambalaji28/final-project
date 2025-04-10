@@ -1,3 +1,10 @@
 ### dependency
 streamlit
-
+Matplotlib
+Tensorflow
+numpy
+shap
+pickle
+os
+pandas
+scikit-learn
